@@ -1,0 +1,4 @@
+tensorflow[and-cuda]
+pyqt6
+matplotlib
+scikit-learn
